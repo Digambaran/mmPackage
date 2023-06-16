@@ -2,8 +2,8 @@
   "name": "mmPackage",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/Digambaran/mmPackage.git",
+    "ssh": "git@github.com:Digambaran/mmPackage.git",
     "branch": "block_mmPackage"
   },
   "dependencies": {
